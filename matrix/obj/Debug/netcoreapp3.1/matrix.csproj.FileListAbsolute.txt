@@ -1,0 +1,12 @@
+/Users/camerongriffiths/Projects/matrix/matrix/obj/Debug/netcoreapp3.1/matrix.csprojAssemblyReference.cache
+/Users/camerongriffiths/Projects/matrix/matrix/obj/Debug/netcoreapp3.1/matrix.AssemblyInfoInputs.cache
+/Users/camerongriffiths/Projects/matrix/matrix/obj/Debug/netcoreapp3.1/matrix.AssemblyInfo.cs
+/Users/camerongriffiths/Projects/matrix/matrix/obj/Debug/netcoreapp3.1/matrix.csproj.CoreCompileInputs.cache
+/Users/camerongriffiths/Projects/matrix/matrix/bin/Debug/netcoreapp3.1/matrix.deps.json
+/Users/camerongriffiths/Projects/matrix/matrix/bin/Debug/netcoreapp3.1/matrix.runtimeconfig.json
+/Users/camerongriffiths/Projects/matrix/matrix/bin/Debug/netcoreapp3.1/matrix.runtimeconfig.dev.json
+/Users/camerongriffiths/Projects/matrix/matrix/bin/Debug/netcoreapp3.1/matrix.dll
+/Users/camerongriffiths/Projects/matrix/matrix/bin/Debug/netcoreapp3.1/matrix.pdb
+/Users/camerongriffiths/Projects/matrix/matrix/obj/Debug/netcoreapp3.1/matrix.dll
+/Users/camerongriffiths/Projects/matrix/matrix/obj/Debug/netcoreapp3.1/matrix.pdb
+/Users/camerongriffiths/Projects/matrix/matrix/obj/Debug/netcoreapp3.1/matrix.genruntimeconfig.cache
